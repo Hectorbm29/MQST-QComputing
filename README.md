@@ -1,6 +1,6 @@
 # MQST-QComputing
 
-Project 1: design a Turing Machine to perform the factoring task.
+Project: design a Turing Machine to perform the factoring task.
 
 The decision table of the different TM created are stored in .txt files and an environment to simulate the TM is taken from (https://sandipanweb.wordpress.com/2020/08/08/simulating-a-turing-machine-with-python-and-executing-programs/) and stored in TuringSimulator.ipynb
 
